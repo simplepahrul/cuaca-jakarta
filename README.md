@@ -58,4 +58,4 @@ Setiap kali saya push ke branch main, GitHub Actions membangun aplikasi lalu men
 
 ## Kesimpulan
 
-Aplikasi ini sudah berjalan sesuai soal tugas: data cuaca Jakarta berhasil diambil dari API online dan ditampilkan dalam bentuk yang mudah dibaca. Dari proses pengerjaannya, saya jadi lebih paham alur memanggil RESTful API di Ionic Vue, mulai dari service, penyimpanan data di komponen, sampai tampil di layar. Saya juga belajar bahwa urusan kecil seperti zona waktu dan base path bisa memengaruhi hasil akhir, jadi perlu dicek sejak awal.
+Aplikasi ini sudah berjalan: data cuaca Jakarta berhasil diambil dari API online dan ditampilkan dalam bentuk yang mudah dibaca. Dari proses pengerjaannya, saya jadi lebih paham alur memanggil RESTful API di Ionic Vue, mulai dari service, penyimpanan data di komponen, sampai tampil di layar. Saya juga belajar bahwa urusan kecil seperti zona waktu dan base path bisa memengaruhi hasil akhir, jadi perlu dicek sejak awal.
