@@ -35,7 +35,7 @@ src/
 
 Urusan mengambil data saya pisahkan ke service, sedangkan HomePage.vue hanya mengurus tampilan. Dengan begitu, kalau nanti ada halaman lain yang butuh data dari API, class yang sama bisa dipakai lagi.
 
-## Menjalankan di laptop
+## Menjalankan 
 
 Pastikan Node.js versi LTS dan Ionic CLI sudah terpasang, lalu jalankan:
 
